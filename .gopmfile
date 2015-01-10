@@ -28,6 +28,7 @@ github.com/shurcooL/go =
 github.com/saintfish/chardet = 
 gopkg.in/ini.v1 = 
 gopkg.in/redis.v2 = 
+github.com/codegangsta/cli =
 
 [res]
 include = conf|etc|public|scripts|templates
